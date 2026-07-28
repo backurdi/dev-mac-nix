@@ -79,10 +79,12 @@
       "orbstack"
       "postman"
 
-      # Window, menu-bar, launcher, and voice workflow utilities
+      # Credentials, window, menu-bar, capture, and voice workflow utilities
+      "bitwarden"
       "jordanbaird-ice"
       "raycast"
       "rectangle"
+      "shottr"
       "swiftbar"
       "voiceink"
 
