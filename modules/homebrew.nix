@@ -78,8 +78,15 @@
       "google-chrome"
       "orbstack"
       "postman"
+
+      # Credentials, window, menu-bar, capture, and voice workflow utilities
+      "bitwarden"
+      "jordanbaird-ice"
       "raycast"
       "rectangle"
+      "shottr"
+      "swiftbar"
+      "voiceink"
 
       # AI development tools currently used on the source Mac
       "chatgpt"
@@ -92,7 +99,6 @@
       "dotnet-sdk@9"
       "gcloud-cli"
       "ngrok"
-      "swiftbar"
 
       # Developer fonts
       "font-fira-code-nerd-font"

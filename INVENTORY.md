@@ -16,6 +16,8 @@ This is a curated development environment, not a byte-for-byte machine clone.
 - Editors and terminals: Cursor, Ghostty, cmux, GitHub Desktop
 - Containers: OrbStack
 - Browsers: Arc and Google Chrome
+- Workflow utilities: Bitwarden, Ice, Raycast, Rectangle, Shottr, SwiftBar,
+  VoiceInk
 - AI development: Claude, ChatGPT, CodexBar, T3 Code, LangGraph Studio,
   Codex CLI, OpenCode, pi coding tools
 - Shell/DX: Zsh, Oh My Zsh, fzf, Git, Git LFS, delta, ripgrep, bat, eza,
