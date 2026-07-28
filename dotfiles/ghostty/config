@@ -1,0 +1,32 @@
+# Work around shifted-letter handling in terminal AI coding tools.
+keybind = shift+a=text:A
+keybind = shift+b=text:B
+keybind = shift+c=text:C
+keybind = shift+d=text:D
+keybind = shift+e=text:E
+keybind = shift+f=text:F
+keybind = shift+g=text:G
+keybind = shift+h=text:H
+keybind = shift+i=text:I
+keybind = shift+j=text:J
+keybind = shift+k=text:K
+keybind = shift+l=text:L
+keybind = shift+m=text:M
+keybind = shift+n=text:N
+keybind = shift+o=text:O
+keybind = shift+p=text:P
+keybind = shift+q=text:Q
+keybind = shift+r=text:R
+keybind = shift+s=text:S
+keybind = shift+t=text:T
+keybind = shift+u=text:U
+keybind = shift+v=text:V
+keybind = shift+w=text:W
+keybind = shift+x=text:X
+keybind = shift+y=text:Y
+keybind = shift+z=text:Z
+
+# Option-based word editing and navigation.
+keybind = alt+backspace=text:\x1b\x7f
+keybind = alt+left=text:\x1bb
+keybind = alt+right=text:\x1bf
